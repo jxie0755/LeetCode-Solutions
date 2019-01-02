@@ -13,3 +13,5 @@ class Solution(object):
     def singleNumber(self, A):
         return reduce(operator.xor, A)
 
+# Denis Xie
+
